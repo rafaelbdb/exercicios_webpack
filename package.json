@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Rafael Borges (Borjão)",
   "license": "ISC",
-  "description": "Estudo do curso UDEMY sobre React/Redux",
+  "description": "Exercícios do curso UDEMY https://www.udemy.com/course/react-redux-pt/",
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
